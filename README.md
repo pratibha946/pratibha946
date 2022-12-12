@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha946&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha946" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 - ⚡ Fun fact **I am funny😅**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
