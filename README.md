@@ -1,5 +1,5 @@
 ### Hi there 👋
-![logo](https://github.com/pratibha946/pratibha946/blob/main/pratibha%20kushwaha.png)
+![logo](https://github.com/pratibha946/pratibha946/blob/main/image.png)
 <!--
 **pratibha946/pratibha946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
